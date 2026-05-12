@@ -24,7 +24,7 @@ Este é um projeto de **Cardápio Online** responsivo, desenvolvido para facilit
 
 ## 🛠️ Tecnologias Utilizadas
 
-*   **🌐 HTML5:** Estrutura da página[span_9](start_span)[span_9](end_span).
+*   **🌐 HTML5:** Estrutura da página[span_9]<start_span>[span_9](end_span).
 *   **🎨 Tailwind CSS:** Estilização moderna e responsiva[span_10](start_span)[span_10](end_span).
 *   **⚡ JavaScript (ES6+):** Lógica do carrinho, manipulação do DOM e integração com API[span_11](start_span)[span_11](end_span).
 *   **🔔 Toastify JS:** Notificações flutuantes para melhorar a experiência do utilizador[span_12](start_span)[span_12](end_span).
