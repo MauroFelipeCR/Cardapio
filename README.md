@@ -3,6 +3,10 @@ Dev Burguer
 <img src="DevBurguer.png" alt="Exemplo imagem">
 
 ```markdown
+
+## 🌐 Demonstração
+
+O projeto está disponível online em: [https://maurofelipecr.github.io/Cardapio/](https://maurofelipecr.github.io/Cardapio/)
 ---
 
 # 🍔 Cardápio Digital - Dev Burguer
